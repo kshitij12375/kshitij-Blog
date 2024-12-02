@@ -1,0 +1,22 @@
+@media only screen and (max-width:576px){
+    .carousel-item img{
+        height: 365px;
+        
+    }
+}
+.bg-body-tertiary {
+    --bs-bg-opacity: 1;
+    background-color: rgb(169 33 145 / 28%) !important;
+}
+@media only screen and (min-width:576px) and (max-width:992px){
+    .carousel-item img{
+        height: 465px;
+        
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1200px){
+    .carousel-item img{
+        height: 465px;
+        
+    }
+}
